@@ -6,7 +6,7 @@ This patcher is designed for conducting listening tests for which the MUSHRA int
 
 This git includes the audio examples used in my MSc dissertation project testing. The "ED" examples were produced by myself (Declan Pearson), Stuart Parker, Carlos Esteves, and Andrew. They stem from the work completed on our Elephants Dream remake, which can be viewed here - https://www.youtube.com/watch?v=pzfGfjoROR8. The "Forest" examples were edited by myself using the S3A object-based audio dramas created by Woodcock et al, available here - http://cvssp.org/data/s3a/public/radiodrama_register.php. All rights belong to their respected owners. 
 
-It should be noted that I am by no means an expert at Max, and simply tweaked the patcher that this was forked from. Maybe this will be of some use to somebody, but its place here is primarily to serve as a supplementary link to my data from my dissertation. 
+It should be noted that I am by no means an expert at Max, and simply tweaked the patcher that this was forked from. Maybe this will be of some use to somebody, but its place here is primarily to serve as a supplementary link to my data from my dissertation. All of the hard work on this patcher is that of Christopher Hummersone, of The Institute of Sound Recording, University of Surrey. 
 
 ## Requirements
 
