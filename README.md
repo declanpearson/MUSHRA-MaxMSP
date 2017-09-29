@@ -1,4 +1,4 @@
-# MUSHRAish-MaxMSP
+# notquiteMUSHRA-MaxMSP
 
 A Max/MSP patcher for listening tests based on the MUSHRA interface.
 
